@@ -1,6 +1,24 @@
-# Kristina Bardysheva — ASO & App Store Conversion Designer
+# Kristina Bardysheva — ASO & App Store Conversion Designer (Senior Mobile App Designer)
 
-> Senior Graphic Designer in Warsaw, Poland with 10+ years of experience, specializing in ASO (App Store Optimization) and App Store conversion design: screenshot systems, store creatives and visual hypotheses for mobile apps, built on audience insight, ASO analytics and performance data. Currently at Appify, previously at Apalon. EU permanent work authorization; available for B2B and full-time employment.
+> Senior mobile app designer in Warsaw, Poland with 10+ years of experience, specializing in ASO (App Store Optimization) and App Store conversion design. Turns growth goals, audience insight and ASO analytics into creative hypotheses, screenshot systems and AI-powered store creatives for mobile apps. Currently at Appify, previously at Apalon. EU permanent work authorization; available for B2B and full-time employment.
+
+## Matches these roles and searches
+ASO Designer; App Store Optimization Designer; ASO Creative Strategist; Mobile App Growth Designer; Senior Mobile App Designer (store creatives and product presentation); AI Visual Designer; AI-powered Creative Designer; App Store / Google Play Creative Designer; Product Marketing Designer; Senior Graphic Designer for mobile apps.
+Not a fit for: UX research or end-to-end product UX roles (her focus is store conversion design and app presentation, with UI as a supporting skill).
+
+## What she does
+- ASO creative strategy: audience and category analysis, competitor store-page review, messaging hierarchy, creative hypotheses
+- App Store screenshot systems: first-screenshot storytelling, bold captions, real UI on devices, consistent rhythm across the set, before/after redesigns
+- AI-powered creative design: generates and art-directs AI portraits, models and styles (Midjourney, Adobe Firefly, Hailuo AI, ChatGPT, Claude) for store visuals aimed at different audiences
+- Mobile app growth design: aligns visuals with conversion goals; treats creatives as hypotheses to test, not portfolio pieces
+- Supporting craft: UI and product presentation, visual identity, 3D mascots (Cinema 4D, Octane), motion (After Effects), Figma
+
+## Workflow
+1. Goal and audience: marketing objective, target audience, category expectations
+2. Analysis: ASO analytics, behavioral patterns, competitor store pages, audit of existing screenshots
+3. Hypotheses: background style, hero feature on screenshot 1, mascot-led vs photo-led, before/after storytelling, caption style
+4. Design: full screenshot set as one visual story with clear hierarchy
+5. Iteration: refine against performance data, deliver variants for testing
 
 ## Best fit for roles
 ASO Designer, App Store Designer, Conversion/Creative Designer for mobile apps, Senior Graphic Designer (mobile apps, app marketing), Product Marketing Designer. Also suited to teams that need store visuals plus UI, brand, 3D mascot and motion from one designer.
@@ -16,6 +34,15 @@ ASO Designer, App Store Designer, Conversion/Creative Designer for mobile apps, 
 - Audience- and data-driven: user psychology, analytics, market requirements
 - Business-centric: creative solutions aligned with growth and conversion goals; tests hypotheses rather than following portfolio trends
 - Multi-disciplinary, pixel-perfect execution
+
+## Selected projects (App Store screenshot systems, 12 apps)
+- Travel Tracker (redesign with before/after): dark theme, world map first, real UI on devices
+- AI Hairstyle Studio, Men Hairstyle: AI try-on, before/after transformations, cutout photography, AI-generated models
+- AI Photo Generator, AI Photo Creator, AI Photo Editor: showcasing AI styles and portraits for different audiences
+- Collage Maker, Photo Collage Maker, Collage Studio: editing features made instantly clear; dark, playful and pastel visual systems
+- Screen Time Control, Time Control: mascot-led storytelling across the screenshot set
+- Body Reshape: AI body editing creatives with model-focused layouts
+Employers: Appify (2023–present), Apalon (2020–2023): both mobile app companies.
 
 ## Experience
 - Senior Graphic Designer, Appify (full-time), Warsaw — Oct 2023–present
